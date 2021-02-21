@@ -260,7 +260,7 @@ img {
 
 #main-nav a {
   text-decoration: none;
-  color: #fff;
+  color: #555;
   text-transform: uppercase;
   border-bottom: 3px transparent solid;
   padding-bottom: 0.5rem;
@@ -276,9 +276,9 @@ img {
 }
 
 #header-home {
-  background: url("/dist/img/showcase.jpg") no-repeat center right/cover;
+  background: url("/dist/img/profil1.jpg") no-repeat center right/cover;
   height: 100vh;
-  color: #fff;
+  color:#555;
 }
 
 #header-home .header-content {
@@ -292,7 +292,7 @@ img {
 }
 
 #header-inner {
-  background: url("/dist/img/showcase.jpg") no-repeat 20% 30%/cover;
+  background: url("/dist/img/profil1.jpg") no-repeat 20% 30%/cover;
   height: 5.5rem;
   border-bottom: 3px solid #ffbc00;
 }
