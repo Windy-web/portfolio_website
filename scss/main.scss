@@ -55,7 +55,7 @@ img {
 
   a {
     text-decoration: none;
-    color: #fff;
+    color: #333;
     text-transform: uppercase;
     border-bottom: 3px transparent solid;
     padding-bottom: 0.5rem;
@@ -71,23 +71,13 @@ img {
   }
 }
 
-#header-home .container {
-  position: relative;
-  width: 100%;
-  min-height: 100vh;
-  background: url(dist/img/showcase.jpg);
-  background-size: cover;
-  background-position: center;
-  align-items: center;
-}
-
 
 #header {
   // Header Home
   &-home {
    background: $bg-image no-repeat center right / cover;
    height: 100vh;
-   color: #fff;
+   color: #333;
 
     // Header Content
     .header-content {
