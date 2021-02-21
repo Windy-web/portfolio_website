@@ -212,7 +212,6 @@ img {
       border-color: #ffbc00; }
 
 #header-home {
-  background: url("/dist/img/profil1.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff; }
   #header-home .header-content {
@@ -228,7 +227,9 @@ img {
   border-bottom: 3px solid #ffbc00; }
 
 #header-home {
-  background-image: url("/dist/img/profil1.jpg"); }
+  background-image: url("/dist/img/profil1.jpg");
+  background-size: cover;
+  background-position: center; }
 
 #home-a .specials {
   margin-top: 3rem;
