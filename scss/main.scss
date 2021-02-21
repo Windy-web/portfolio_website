@@ -75,7 +75,7 @@ img {
 #header {
   // Header Home
   &-home {
-   background: $bg-image no-repeat center right / cover;
+   //background: $bg-image no-repeat center right / cover;
    height: 100vh;
    color: #fff;
 
@@ -100,6 +100,8 @@ img {
 
 #header-home {
   background-image: url('/dist/img/profil1.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 // Home Sections
