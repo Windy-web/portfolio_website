@@ -227,6 +227,9 @@ img {
   height: 5.5rem;
   border-bottom: 3px solid #ffbc00; }
 
+#header-home {
+  background-image: url("/dist/img/profil1.jpg"); }
+
 #home-a .specials {
   margin-top: 3rem;
   display: grid;
