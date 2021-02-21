@@ -188,7 +188,7 @@ img {
 #logo {
   width: 70px;
   height: 70px;
-  color: #fff;
+  color: #ffbc00;
   font-size: 55px; }
 
 #main-nav {
@@ -201,7 +201,7 @@ img {
     padding: 1rem 1.5rem; }
   #main-nav a {
     text-decoration: none;
-    color: #fff;
+    color: #ffbc00;
     text-transform: uppercase;
     border-bottom: 3px transparent solid;
     padding-bottom: 0.5rem;
