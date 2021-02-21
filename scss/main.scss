@@ -71,13 +71,23 @@ img {
   }
 }
 
-// Header
+#header-home .container {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  background: url(dist/img/showcase.jpg);
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+}
+
+
 #header {
   // Header Home
   &-home {
-    background: $bg-image no-repeat center right / cover;
-    height: 100vh;
-    color: #fff;
+   background: $bg-image no-repeat center right / cover;
+   height: 100vh;
+   color: #fff;
 
     // Header Content
     .header-content {
